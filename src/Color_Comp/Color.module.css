@@ -1,0 +1,13 @@
+.anime{
+    background-color: fuchsia;
+    color: khaki;
+    padding: 2rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.singham{
+    color: darkred;
+    background-color: darkslategrey;
+    font-size: 5rem;
+    font-weight: 500;
+}
